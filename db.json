@@ -8,6 +8,6 @@
         { "url": "America/Chicago", "location": "Chicage", "flag": "usa.png" },
         { "url": "America/New_York", "location": "New York", "flag": "usa.png" },
         { "url": "Asia/Seoul", "location": "Seoul", "flag": "south_korea.png" },
-        { "url": "Asia/Jakarta", "location": "Jakarta", "flag": "indonesia.png" },
+        { "url": "Asia/Jakarta", "location": "Jakarta", "flag": "indonesia.png" }
     ]
 }
